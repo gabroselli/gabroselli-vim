@@ -46,3 +46,4 @@ let g:airline_theme='hybridline'
 
 " Search Options
 set hlsearch
+set runtimepath^=~/.vim/bundle/ag
