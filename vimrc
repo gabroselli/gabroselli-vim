@@ -47,3 +47,6 @@ let g:airline_theme='hybridline'
 " Search Options
 set hlsearch
 set runtimepath^=~/.vim/bundle/ag
+
+" Markdown stuff
+let g:vim_markdown_folding_disabled = 1
