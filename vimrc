@@ -5,7 +5,7 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-colorscheme solarized "OceanicNext
+colorscheme onedark
 
 syntax on
 set number
@@ -50,3 +50,7 @@ set runtimepath^=~/.vim/bundle/ag
 
 " Markdown stuff
 let g:vim_markdown_folding_disabled = 1
+
+
+let g:python_pep8_indent_multiline_string = 0
+
