@@ -5,7 +5,12 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-colorscheme default 
+
+if has("gui_running")
+  colorscheme solarized
+else
+  colorscheme default
+endif
 
 syntax on
 set number
