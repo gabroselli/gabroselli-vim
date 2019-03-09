@@ -5,7 +5,7 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-colorscheme onedark
+colorscheme default 
 
 syntax on
 set number
