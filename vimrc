@@ -5,12 +5,7 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-
-if has("gui_running")
-  colorscheme solarized
-else
-  colorscheme default
-endif
+colorscheme OceanicNext
 
 syntax on
 set number
