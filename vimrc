@@ -5,7 +5,7 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-colorscheme dracula
+colorscheme delek
 
 syntax on
 set number
