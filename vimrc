@@ -5,7 +5,7 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-colorscheme delek
+colorscheme onedark
 
 syntax on
 set number
@@ -21,6 +21,7 @@ set tabstop=2
 set softtabstop=2
 set expandtab
 set cindent
+set backspace=indent,eol,start
 
 " Whitespace stuff
 set list listchars=tab:\ \ ,trail:·
